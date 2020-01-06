@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Apps from './Apps/apps';
 
 class App extends Component {
-
   constructor(props) {
     super(props);
     this.state = {
